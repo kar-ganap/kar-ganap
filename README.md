@@ -54,4 +54,4 @@ corrections, is the artifact.
 House rules across these repos: pre-register before running · report nulls as nulls · every
 number regenerates from a committed script · spend logged per run.
 
-[LinkedIn](https://linkedin.com/in/kartikganapathi/) · gkartik@gmail.com
+[LinkedIn](https://linkedin.com/in/kartikganapathi/)
