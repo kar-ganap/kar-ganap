@@ -38,8 +38,9 @@ training outcomes.
 
 #### Completed studies — writeups in preparation
 
-**canary** — recursive self-training collapse. Fluent diversity collapse below 12.5% synthetic
-data; cross-family replication on OLMo failed, and two of four hypotheses were withdrawn.
+**[canary](https://github.com/kar-ganap/canary)** — recursive self-training collapse. Fluent
+diversity collapse below 12.5% synthetic data; cross-family replication on OLMo failed, and two
+of four hypotheses were withdrawn.
 
 **[originality](https://github.com/kar-ganap/originality)** — a 24M-paper measurement study. The
 *sign* of the headline effect turns out to be embedding-determined; the original mechanism claim
