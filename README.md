@@ -14,7 +14,7 @@ A contamination-free synthetic oracle separates reasoning quality from optimizat
 Structured reasoning helps weaker models (+26%) and *hurts* the strongest (−35%, p=0.0006) —
 traced to context-cementing, isolated by a one-flag ablation.
 
-**[Labels Not Loss: Multi-Stakeholder Preference Learning and Identifiability](https://zenodo.org/records/19666774)** · [code](https://github.com/kar-ganap/x-algorithm-enhancements)
+**[Labels Not Loss: Multi-Stakeholder Preference Learning and Identifiability](https://zenodo.org/records/19666774)** · [code](https://github.com/kar-ganap/labels-not-loss)
 A directional Goodhart condition: the cosine of trained reward-vector weights determines
 whether more data helps or harms hidden stakeholders (32/32). Validated on MovieLens-100K/1M,
 MIND, and Amazon Kindle.
