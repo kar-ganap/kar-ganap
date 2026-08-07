@@ -1,6 +1,6 @@
 ### Kartik G Bhat
 
-PhD, UC Berkeley · MS Data Science, UT Austin · 9 years at Intel · Founding Scientist, Oski Labs
+PhD, UC Berkeley · MS Data Science, UT Austin · 9 years at Intel · Founding Scientist, MightyAI
 
 I run controlled experiments on **the gap between a target and the proxy we optimize or
 measure** — in reward models, judges, benchmarks, RL environments, and monitors.
