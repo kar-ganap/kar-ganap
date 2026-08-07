@@ -54,7 +54,4 @@ corrections, is the artifact.
 House rules across these repos: pre-register before running · report nulls as nulls · every
 number regenerates from a committed script · spend logged per run.
 
-Earlier work: 20+ publications, patents, and invention disclosures in memory systems and hardware
-reliability; Intel Achievement Award (2019).
-
 [LinkedIn](https://linkedin.com/in/kartikganapathi/) · gkartik@gmail.com
